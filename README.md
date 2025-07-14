@@ -1,5 +1,10 @@
 # 🐦 Twitter Sentiment Analysis Bot
 
+## ▶️ Live Demo
+
+Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cUcBBJK-P4jtTDYgBuTLT7btmbxKqGs9?usp=sharing)
+
+
 This project is a machine learning-based sentiment analysis bot that analyzes tweets and classifies them as **positive** or **negative** using the [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140).
 
 ## 📂 File
