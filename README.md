@@ -44,9 +44,22 @@ This project is a machine learning-based sentiment analysis bot that analyzes tw
 - TF-IDF for feature extraction
 - Logistic Regression for classification
 
+## 🔧 TODO
+
+- [ ] Add more classifiers (e.g., SVM, Random Forest)
+- [ ] Add emoji sentiment handling
+- [ ] Improve preprocessing with lemmatization
+- [ ] Deploy with Flask or Streamlit
+
 ## 🧾 Requirements
 
 If running locally, install dependencies:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
