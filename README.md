@@ -51,6 +51,10 @@ This project is a machine learning-based sentiment analysis bot that analyzes tw
 - [ ] Improve preprocessing with lemmatization
 - [ ] Deploy with Flask or Streamlit
 
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
 ## 🧾 Requirements
 
 If running locally, install dependencies:
@@ -59,7 +63,4 @@ If running locally, install dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
 
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
